@@ -8,17 +8,17 @@ Click the link to explore the live dashboard: https://app.powerbi.com/view?r=eyJ
 3.	Sales Mode Analysis View: A detailed analysis of how customers prefer to purchase insurance policies, whether via offline agents, online websites, or other channels.
 4.	Age Group View: A visualization of revenue segmented by different age groups, giving insight into which customer segments drive the most revenue.
 ## Insights & Analysis:
-•	Revenue by Age Group: Adults (30-44 years) contribute the most revenue, with seniors (60+) following closely. Teens (13-19 years) generate the least revenue, reflecting differences in policy preferences and purchasing power.
-•	Top Performing Cities: Delhi leads in both revenue generation and customer base, with other cities such as Mumbai and Hyderabad showing potential for growth.
-•	Sales Mode Preferences: Offline agents remain the most preferred sales channel across all age groups, although online channels present an opportunity for future growth.
-•	Customer Satisfaction: The senior age group shows the highest settlement rates, which suggests a more satisfied customer base among older policyholders.
-•	Policy Performance: Policies such as POL2005HEL are driving the highest revenue, making them key candidates for targeted marketing strategies.
+1. Revenue by Age Group: Adults (30-44 years) contribute the most revenue, with seniors (60+) following closely. Teens (13-19 years) generate the least revenue, reflecting differences in policy preferences and purchasing power.
+2. Top Performing Cities: Delhi leads in both revenue generation and customer base, with other cities such as Mumbai and Hyderabad showing potential for growth.
+3. Sales Mode Preferences: Offline agents remain the most preferred sales channel across all age groups, although online channels present an opportunity for future growth.
+4. Customer Satisfaction: The senior age group shows the highest settlement rates, which suggests a more satisfied customer base among older policyholders.
+5. Policy Performance: Policies such as POL2005HEL are driving the highest revenue, making them key candidates for targeted marketing strategies.
 ## Tools & Technologies
-•	Power BI: Used for creating interactive data visualizations, offering a user-friendly interface to explore key performance metrics.
-•	Power Query: Utilized for data transformation and cleaning, ensuring the dataset is structured for meaningful analysis.
-•	DAX (Data Analysis Expressions): Employed to create calculated columns and measures, providing deeper insights into the data.
-•	Microsoft PowerPoint: Used to create a concise presentation of the dashboard insights for business stakeholders.
-•	Clipchamp: A tool for recording a brief walkthrough video of the dashboard, highlighting key findings.
+1. Power BI: Used for creating interactive data visualizations, offering a user-friendly interface to explore key performance metrics.
+2. Power Query: Utilized for data transformation and cleaning, ensuring the dataset is structured for meaningful analysis.
+3. DAX (Data Analysis Expressions): Employed to create calculated columns and measures, providing deeper insights into the data.
+4. Microsoft PowerPoint: Used to create a concise presentation of the dashboard insights for business stakeholders.
+5. Microsoft Clipchamp: A tool for recording a brief walkthrough video of the dashboard, highlighting key findings.
 ## Key Recommendations:
 1.	Target Marketing to Adults (18-35): Focus marketing efforts on adults who contribute significantly to overall revenue. Tailor campaigns to attract this age group.
 2.	Expand in High-Performing Cities: Further penetration into Delhi’s market is key, with additional strategies for growth in Mumbai and Hyderabad.
