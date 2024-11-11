@@ -26,3 +26,5 @@ Click the link to explore the live dashboard: https://app.powerbi.com/view?r=eyJ
 4.	Improve Customer Support for Younger Segments: The younger age group (13-29) has lower settlement rates, suggesting a need for better customer support and policy flexibility for this demographic.
 5.	Promote High-Performing Policies: Investigate what drives the success of policies like POL2005HEL and expand similar features to other policies.
 
+### Thank you for reading. 
+
