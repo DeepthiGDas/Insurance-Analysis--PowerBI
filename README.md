@@ -12,7 +12,7 @@ Click the link to explore the live dashboard: https://app.powerbi.com/view?r=eyJ
 4.	Age Group View: A visualization of revenue segmented by different age groups, giving insight into which customer segments drive the most revenue.
    ![Screenshot 2024-11-08 100326](https://github.com/user-attachments/assets/bf724d5a-bba2-4737-b5c3-ff430967f6ee)
 ## Insights & Analysis:
-1. Revenue by Age Group: Adults (30-44 years) contribute the most revenue, with seniors (60+) following closely. Teens (13-19 years) generate the least revenue, reflecting differences in policy preferences and purchasing power.
+1. Revenue by Age Group: Adults (31-40 years) contribute the most revenue, with seniors (65+) following closely. Teens (18-24 years) generate the least revenue, reflecting differences in policy preferences and purchasing power.
 2. Top Performing Cities: Delhi leads in both revenue generation and customer base, with other cities such as Mumbai and Hyderabad showing potential for growth.
 3. Sales Mode Preferences: Offline agents remain the most preferred sales channel across all age groups, although online channels present an opportunity for future growth.
 4. Customer Satisfaction: The senior age group shows the highest settlement rates, which suggests a more satisfied customer base among older policyholders.
@@ -24,10 +24,10 @@ Click the link to explore the live dashboard: https://app.powerbi.com/view?r=eyJ
 4. Microsoft PowerPoint: Used to create a concise presentation of the dashboard insights for business stakeholders.
 5. Microsoft Clipchamp: A tool for recording a brief walkthrough video of the dashboard, highlighting key findings.
 ## Key Recommendations:
-1.	Target Marketing to Adults (18-35): Focus marketing efforts on adults who contribute significantly to overall revenue. Tailor campaigns to attract this age group.
+1.	Target Marketing to Adults (18-24): Focus marketing efforts on adults who contribute significantly to overall revenue. Tailor campaigns to attract this age group.
 2.	Expand in High-Performing Cities: Further penetration into Delhi’s market is key, with additional strategies for growth in Mumbai and Hyderabad.
 3.	Optimize Online Sales Channels: Given the dominance of offline sales, there's a major opportunity to improve online channels, such as the app and website, to drive further growth.
-4.	Improve Customer Support for Younger Segments: The younger age group (13-29) has lower settlement rates, suggesting a need for better customer support and policy flexibility for this demographic.
+4.	Improve Customer Support for Younger Segments: The younger age group (18-24) has lower settlement rates, suggesting a need for better customer support and policy flexibility for this demographic.
 5.	Promote High-Performing Policies: Investigate what drives the success of policies like POL2005HEL and expand similar features to other policies.
 
 ### Thank you for reading. 
