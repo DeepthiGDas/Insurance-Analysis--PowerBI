@@ -32,3 +32,8 @@ Click the link to explore the live dashboard: https://app.powerbi.com/view?r=eyJ
 
 ### Thank you for reading. 
 
+## Author
+**Deepthi G Das**  
+📧 [deepthigdas@243@gmail.com](mailto:deepthigdas@243@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepthi-g-das)
+
